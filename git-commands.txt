@@ -1,0 +1,25 @@
+<> - without angel brackets 
+Get repo from gitHub
+
+git clone <hash> - clone remote repo
+
+Algorithm / flow -> post data into repo
+git init - initialize project as a git repo
+-------------------------------------------
+Project recives status ,also as a files 
+U - untracked 
+    |
+    _
+git add <file's_name>
+git add . - add all files in the current work directory
+
+A - Added
+    |
+    _ 
+
+M - modified 
+
+git status - project status 
+
+Complited 
+git commit 
