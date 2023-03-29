@@ -26,3 +26,8 @@ Commited
 git commit -m "<your_message>" - project commited 
 
 git log - get console with logged data
+
+git branch <branch_name> - create new branch
+git switch -c <branch_name> - create new branch
+
+git chekout <target_branch_name> - change branch 
