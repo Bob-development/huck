@@ -21,5 +21,8 @@ M - modified
 
 git status - project status 
 
-Complited 
-git commit 
+Commited 
+
+git commit -m "<your_message>" - project commited 
+
+git log - get console with logged data
