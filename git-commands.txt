@@ -37,5 +37,5 @@ git merge - merge
 
 .gitignore - file to ignore file
 
-
-git branch -m <new_branch-name> - alter branch name
+git branch -m <new_branch-name> - alter branch name 
+git pull - recive data from repo (sync with repo)
