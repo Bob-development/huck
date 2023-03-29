@@ -31,3 +31,4 @@ git branch <branch_name> - create new branch
 git switch -c <branch_name> - create new branch
 
 git chekout <target_branch_name> - change branch 
+git switch <target_branch_name> - change branch 
