@@ -26,5 +26,3 @@ Commited
 git commit -m "<your_message>" - project commited 
 
 git log - get console with logged data
-
-git merge - merge
