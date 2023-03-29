@@ -34,3 +34,5 @@ git chekout <target_branch_name> - change branch
 git switch <target_branch_name> - change branch 
 
 git merge - merge
+
+.gitignore - file to ignore file
